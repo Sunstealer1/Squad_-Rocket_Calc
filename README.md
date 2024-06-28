@@ -1,7 +1,5 @@
 # Mortar elevation calculator for [Squad](http://joinsquad.com)
 
-Belongs to public domain.
+A copy of an old rocket techie range calculator for Squad A13.
 
 --------------
-
-[>>> Live version <<<](http://squad.ujkl.ru/)
